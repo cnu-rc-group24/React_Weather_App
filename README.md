@@ -23,6 +23,12 @@ $ npm install
 $ npm run start
 ```
 
+## 실행 전에 설치하여야 할 과정
+
+cmd 창에서,
+npm install react-native-animatable
+설치를 하고 돌려야 한다.
+
 ## Things we have done
 
 ### 1. Search bar
