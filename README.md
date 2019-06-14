@@ -1,19 +1,19 @@
-# RN101-class
+# Group 24 React Native Weather App
 
-Example for React Native 101 class. Each commit represents each step.
+충남대학교 실전코딩 React Native Weather App FE  
 
 ## How to run
 
 ### Clone the repository
 
 ```bash
-$ git clone https://github.com/cwdoh/RN101-class.git
+$ git clone https://github.com/cnu-rc-group24/React_Weather_App
 ```
 
 ### Install whole dependencies
 
 ```bash
-$ cd RN101-class
+$ cd React_Weather_App
 $ npm install
 ```
 
