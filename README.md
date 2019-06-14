@@ -24,6 +24,7 @@ $ npm run start
 ```
 
 ## 실행 전에 설치하여야 할 과정
+react-native-animatable이 없다면.
 
 cmd 창에서,
 npm install react-native-animatable
@@ -65,3 +66,7 @@ City List 페이지에 검색창을 구현하여 원하는 도시의 정보를 �
 ### 3. Layout
 
 flex를 이용한 레이아웃 나누기를 좀 더 응용해서 작업을 하고싶다. 
+
+### 4. Font
+
+font를 추가하여 변경하려고 하였으나 오류로 인해서 해당 작업을 못했다.
