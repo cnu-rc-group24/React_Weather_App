@@ -23,6 +23,16 @@ $ npm install
 $ npm run start
 ```
 
+## Things we have done
+
+### 1. Search bar
+
+City List 페이지에 검색창을 구현하여 원하는 도시의 정보를 스크롤 보다 빠르게 확인할 수 있도록 하였다.
+
+### 2. Humidity
+
+
+
 ## Point to Improve
 
 ### 1. Search UI
