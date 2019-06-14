@@ -29,9 +29,21 @@ $ npm run start
 
 City List 페이지에 검색창을 구현하여 원하는 도시의 정보를 스크롤 보다 빠르게 확인할 수 있도록 하였다.
 
-### 2. Humidity
+### 2. Background
 
+모든 페이지에 백그라운드를 삽입하였다.
 
+### 3. Temperature & Humidity
+
+각 도시별 온도와 습도를 제공하도록 하였다.
+
+### 4. Logo
+
+첫 화면에 로고를 삽입하였다.
+
+### 5. Subtitle for each weather information
+
+각 날씨 정보에 따른 subtitle들을 랜덤하게 출력하도록 하였다.
 
 ## Point to Improve
 
